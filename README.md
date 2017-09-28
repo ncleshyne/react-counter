@@ -1,6 +1,4 @@
 # Simple Counter App
-
-# To-do List App
 This is a simple counter application made using ReactJS and create-react-app.
 
 ### Features
